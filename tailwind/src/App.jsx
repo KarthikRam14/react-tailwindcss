@@ -48,7 +48,7 @@ export default function App(){
     <div className="bg-gray-200 text-center lg:text-left">
       <div className="text-center text-gray-700 p-4">
         © 2021 Copyright:
-        <a className="text-gray-800" href="https://kalvium.com/">Kalvium</a>
+        <p>Kalvium</p>
      </div>
     </div>
   </div>
